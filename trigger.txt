@@ -1,1 +1,1 @@
-xhofe/alist:latest registry.cn-hangzhou.aliyuncs.com/guo_share/xhofe/alist:latest
+alist:latest registry.cn-hangzhou.aliyuncs.com/guo_share/alist:latest
