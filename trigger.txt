@@ -1,1 +1,1 @@
-nginx:alpine registry.cn-hangzhou.aliyuncs.com/guo_share/nginx:alpine
+xhofe/alist:latest registry.cn-hangzhou.aliyuncs.com/guo_share/xhofe/alist:latest
