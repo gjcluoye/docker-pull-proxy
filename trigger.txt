@@ -1,1 +1,1 @@
-xhofe/alist:latest registry.cn-hangzhou.aliyuncs.com/guo_share/alist:latest
+nyanmisaka/jellyfin:latest registry.cn-hangzhou.aliyuncs.com/guo_share/nyanmisaka_jellyfin:latest
