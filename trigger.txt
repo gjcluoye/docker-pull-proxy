@@ -1,1 +1,1 @@
-nginx:alpine registry.cn-hangzhou.aliyuncs.com/guo_share/alist/nginx:alpine
+nginx:alpine registry.cn-hangzhou.aliyuncs.com/guo_share/nginx:alpine
