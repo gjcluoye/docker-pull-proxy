@@ -1,3 +1,4 @@
 nyanmisaka/jellyfin:latest registry.cn-hangzhou.aliyuncs.com/guo_share/nyanmisaka_jellyfin:latest
 xhofe/alist:latest registry.cn-hangzhou.aliyuncs.com/guo_share/xhofe_alist:latest
 resilio/sync:latest registry.cn-hangzhou.aliyuncs.com/guo_share/resilio_sync:latest
+filebrowser/filebrowser:latest registry.cn-hangzhou.aliyuncs.com/guo_share/filebrowser:latest
