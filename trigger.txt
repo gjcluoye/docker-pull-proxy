@@ -3,3 +3,4 @@ xhofe/alist:latest registry.cn-hangzhou.aliyuncs.com/guo_share/xhofe_alist:lates
 resilio/sync:latest registry.cn-hangzhou.aliyuncs.com/guo_share/resilio_sync:latest
 filebrowser/filebrowser:latest registry.cn-hangzhou.aliyuncs.com/guo_share/filebrowser:latest
 whyour/qinglong:debian registry.cn-hangzhou.aliyuncs.com/guo_share/whyour_qinglong:debian
+gotify/server:latest registry.cn-hangzhou.aliyuncs.com/guo_share/gotify_server:latest
