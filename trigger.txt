@@ -5,3 +5,4 @@ filebrowser/filebrowser:latest registry.cn-hangzhou.aliyuncs.com/guo_share/fileb
 whyour/qinglong:debian registry.cn-hangzhou.aliyuncs.com/guo_share/whyour_qinglong:debian
 gotify/server:latest registry.cn-hangzhou.aliyuncs.com/guo_share/gotify_server:latest
 ghcr.io/ajnart/homarr:latest registry.cn-hangzhou.aliyuncs.com/guo_share/ajnart_homarr:latest
+linuxserver/heimdall:latest registry.cn-hangzhou.aliyuncs.com/guo_share/linuxserver_heimdall:latest
