@@ -7,7 +7,7 @@ on:
   #   branches: [ main ]
   schedule:
   # 定时任务
-    - cron:  0 18 * * * 
+    - cron:  0 18 * * 3 
 
 env:
   REGISTRY: registry.cn-hangzhou.aliyuncs.com
