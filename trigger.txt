@@ -7,3 +7,4 @@ gotify/server:latest registry.cn-hangzhou.aliyuncs.com/guo_share/gotify_server:l
 ghcr.io/ajnart/homarr:latest registry.cn-hangzhou.aliyuncs.com/guo_share/ajnart_homarr:latest
 linuxserver/heimdall:latest registry.cn-hangzhou.aliyuncs.com/guo_share/linuxserver_heimdall:latest
 helloz/onenav:latest registry.cn-hangzhou.aliyuncs.com/guo_share/helloz_onenav:latest
+b3log/siyuan:latest registry.cn-hangzhou.aliyuncs.com/guo_share/b3log_siyuan:latest
