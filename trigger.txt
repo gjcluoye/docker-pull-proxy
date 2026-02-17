@@ -8,3 +8,4 @@ helloz/onenav:latest registry.cn-hangzhou.aliyuncs.com/guo_share/helloz_onenav:l
 b3log/siyuan:latest registry.cn-hangzhou.aliyuncs.com/guo_share/b3log_siyuan:latest
 emby/embyserver:latest registry.cn-hangzhou.aliyuncs.com/guo_share/emby_embyserver:latest
 superng6/qbittorrentee:latest registry.cn-hangzhou.aliyuncs.com/guo_share/superng6_qbittorrentee:latest
+gdy666/lucky:v2 registry.cn-hangzhou.aliyuncs.com/guo_share/gdy666_lucky:v2
