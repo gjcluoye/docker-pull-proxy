@@ -1,4 +1,4 @@
-xhofe/alist:latest registry.cn-hangzhou.aliyuncs.com/guo_share/xhofe_alist:latest
+doxwant/gotab:latest registry.cn-hangzhou.aliyuncs.com/guo_share/doxwant_gotab:latest
 resilio/sync:latest registry.cn-hangzhou.aliyuncs.com/guo_share/resilio_sync:latest
 b3log/siyuan:latest registry.cn-hangzhou.aliyuncs.com/guo_share/b3log_siyuan:latest
 superng6/qbittorrentee:latest registry.cn-hangzhou.aliyuncs.com/guo_share/superng6_qbittorrentee:latest
