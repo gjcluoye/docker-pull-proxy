@@ -3,3 +3,4 @@ resilio/sync:latest registry.cn-hangzhou.aliyuncs.com/guo_share/resilio_sync:lat
 b3log/siyuan:latest registry.cn-hangzhou.aliyuncs.com/guo_share/b3log_siyuan:latest
 superng6/qbittorrentee:latest registry.cn-hangzhou.aliyuncs.com/guo_share/superng6_qbittorrentee:latest
 gdy666/lucky:v2 registry.cn-hangzhou.aliyuncs.com/guo_share/gdy666_lucky:v2
+qdnas/flatnas:latest registry.cn-hangzhou.aliyuncs.com/guo_share/qdnas_flatnas:latest
