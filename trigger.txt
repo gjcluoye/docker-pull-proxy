@@ -4,3 +4,6 @@ b3log/siyuan:latest registry.cn-hangzhou.aliyuncs.com/guo_share/b3log_siyuan:lat
 superng6/qbittorrentee:latest registry.cn-hangzhou.aliyuncs.com/guo_share/superng6_qbittorrentee:latest
 gdy666/lucky:v2 registry.cn-hangzhou.aliyuncs.com/guo_share/gdy666_lucky:v2
 qdnas/flatnas:latest registry.cn-hangzhou.aliyuncs.com/guo_share/qdnas_flatnas:latest
+uusec/openresty-manager:latest registry.cn-hangzhou.aliyuncs.com/guo_share/uusec_openresty-manager:latest
+seriousm4x/upsnap:latest registry.cn-hangzhou.aliyuncs.com/guo_share/seriousm4x_upsnap:latest
+jeessy/ddns-go:latest registry.cn-hangzhou.aliyuncs.com/guo_share/jeessy_ddns-go:latest
