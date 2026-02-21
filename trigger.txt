@@ -7,3 +7,4 @@ qdnas/flatnas:latest registry.cn-hangzhou.aliyuncs.com/guo_share/qdnas_flatnas:l
 uusec/openresty-manager:latest registry.cn-hangzhou.aliyuncs.com/guo_share/uusec_openresty-manager:latest
 seriousm4x/upsnap:latest registry.cn-hangzhou.aliyuncs.com/guo_share/seriousm4x_upsnap:latest
 jeessy/ddns-go:latest registry.cn-hangzhou.aliyuncs.com/guo_share/jeessy_ddns-go:latest
+jc21/nginx-proxy-manager:latest registry.cn-hangzhou.aliyuncs.com/guo_share/jc21_nginx-proxy-manager:latest
