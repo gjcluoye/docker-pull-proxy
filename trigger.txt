@@ -8,3 +8,4 @@ uusec/openresty-manager:latest registry.cn-hangzhou.aliyuncs.com/guo_share/uusec
 seriousm4x/upsnap:latest registry.cn-hangzhou.aliyuncs.com/guo_share/seriousm4x_upsnap:latest
 jeessy/ddns-go:latest registry.cn-hangzhou.aliyuncs.com/guo_share/jeessy_ddns-go:latest
 jc21/nginx-proxy-manager:latest registry.cn-hangzhou.aliyuncs.com/guo_share/jc21_nginx-proxy-manager:latest
+zoraxydocker/zoraxy:latest registry.cn-hangzhou.aliyuncs.com/guo_share/zoraxydocker_zoraxy:latest
